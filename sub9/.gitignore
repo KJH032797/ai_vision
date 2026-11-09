@@ -1,0 +1,13 @@
+# Day07 원본·분할 이미지 및 파생 데이터
+samples/day07/
+artifacts/day07/
+outputs/day07/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Day08 원본·분할 이미지 및 파생 데이터
+samples/day08/
+artifacts/day08/
+outputs/day08/

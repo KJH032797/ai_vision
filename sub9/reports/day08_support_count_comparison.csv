@@ -1,0 +1,4 @@
+﻿support_per_class,normal_support,anomaly_support,query_samples,accuracy,fp,fn,tp,tn
+1,1,1,20,0.7,1,5,5,9
+3,3,3,20,0.8,0,4,6,10
+5,5,5,20,0.9,0,2,8,10
