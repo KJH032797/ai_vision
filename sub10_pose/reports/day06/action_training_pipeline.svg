@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1409.4pt" height="1012.32pt" viewBox="0 0 1409.4 1012.32" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <title>교과 10 Action 학습 파이프라인</title>
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>교과 10 Action 학습 파이프라인</dc:title>
+    <dc:date>2026-11-19</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 1012.32 
+L 1409.4 1012.32 
+L 1409.4 -0 
+L 0 -0 
+z
+" style="fill: #f7f9fc"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 36.84375 981.4194 
+L 1372.55625 981.4194 
+Q 1383.01875 981.4194 1383.01875 973.935 
+L 1383.01875 831.7314 
+Q 1383.01875 824.247 1372.55625 824.247 
+L 36.84375 824.247 
+Q 26.38125 824.247 26.38125 831.7314 
+L 26.38125 973.935 
+Q 26.38125 981.4194 36.84375 981.4194 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #f4f7f9; stroke: #8398a3; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 462.31875 123.624 
+L 486.73125 123.624 
+Q 489.6375 123.624 489.6375 121.545 
+L 489.6375 110.7342 
+Q 489.6375 108.6552 486.73125 108.6552 
+L 462.31875 108.6552 
+Q 459.4125 108.6552 459.4125 110.7342 
+L 459.4125 121.545 
+Q 459.4125 123.624 462.31875 123.624 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #f3f3f4; stroke: #8a8a8a; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 286.2 206.784 
+Q 332.7 206.784 377.690654 206.784 
+" clip-path="url(#p0753bdd80d)" style="fill: none; stroke: #476372; stroke-width: 1.35; stroke-linecap: round"/>
+    <path d="M 372.890654 204.384 
+L 377.690654 206.784 
+L 372.890654 209.184 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #476372; stroke: #476372; stroke-width: 1.35; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 634.95 206.784 
+Q 681.45 206.784 726.440654 206.784 
+" clip-path="url(#p0753bdd80d)" style="fill: none; stroke: #476372; stroke-width: 1.35; stroke-linecap: round"/>
+    <path d="M 721.640654 204.384 
+L 726.440654 206.784 
+L 721.640654 209.184 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #476372; stroke: #476372; stroke-width: 1.35; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 1030.2 206.784 
+Q 1076.7 206.784 1121.690654 206.784 
+" clip-path="url(#p0753bdd80d)" style="fill: none; stroke: #476372; stroke-width: 1.35; stroke-linecap: round"/>
+    <path d="M 1116.890654 204.384 
+L 1121.690654 206.784 
+L 1116.890654 209.184 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #476372; stroke: #476372; stroke-width: 1.35; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 1251.075 289.944 
+L 1251.075 323.208 
+L 704.7 323.208 
+L 704.7 356.472 
+" clip-path="url(#p0753bdd80d)" style="fill: none; stroke: #476372; stroke-width: 1.35; stroke-linecap: square"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 704.7 323.208 
+Q 704.7 339.84 704.7 354.962654 
+" clip-path="url(#p0753bdd80d)" style="fill: none; stroke: #476372; stroke-width: 1.35; stroke-linecap: round"/>
+    <path d="M 707.1 350.162654 
+L 704.7 354.962654 
+L 702.3 350.162654 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #476372; stroke: #476372; stroke-width: 1.35; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 193.2 531.108 
+Q 193.2 560.214 193.2 587.810654 
+" clip-path="url(#p0753bdd80d)" style="fill: none; stroke: #476372; stroke-width: 1.35; stroke-linecap: round"/>
+    <path d="M 195.6 583.010654 
+L 193.2 587.810654 
+L 190.8 583.010654 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #476372; stroke: #476372; stroke-width: 1.35; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 576.825 531.108 
+Q 576.825 560.214 576.825 587.810654 
+" clip-path="url(#p0753bdd80d)" style="fill: none; stroke: #476372; stroke-width: 1.35; stroke-linecap: round"/>
+    <path d="M 579.225 583.010654 
+L 576.825 587.810654 
+L 574.425 583.010654 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #476372; stroke: #476372; stroke-width: 1.35; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 925.575 531.108 
+Q 925.575 560.214 925.575 587.810654 
+" clip-path="url(#p0753bdd80d)" style="fill: none; stroke: #476372; stroke-width: 1.35; stroke-linecap: round"/>
+    <path d="M 927.975 583.010654 
+L 925.575 587.810654 
+L 923.175 583.010654 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #476372; stroke: #476372; stroke-width: 1.35; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 355.95 680.796 
+Q 385.0125 680.796 412.565654 680.796 
+" clip-path="url(#p0753bdd80d)" style="fill: none; stroke: #476372; stroke-width: 1.35; stroke-linecap: round"/>
+    <path d="M 407.765654 678.396 
+L 412.565654 680.796 
+L 407.765654 683.196 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #476372; stroke: #476372; stroke-width: 1.35; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 1053.45 680.796 
+Q 1088.325 680.796 1121.690654 680.796 
+" clip-path="url(#p0753bdd80d)" style="fill: none; stroke: #476372; stroke-width: 1.35; stroke-linecap: round"/>
+    <path d="M 1116.890654 678.396 
+L 1121.690654 680.796 
+L 1116.890654 683.196 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #476372; stroke: #476372; stroke-width: 1.35; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 193.2 772.272 
+L 193.2 813.852 
+L 1239.45 813.852 
+L 1239.45 772.272 
+" clip-path="url(#p0753bdd80d)" style="fill: none; stroke: #476372; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 1239.45 813.852 
+Q 1239.45 793.062 1239.45 773.781346 
+" clip-path="url(#p0753bdd80d)" style="fill: none; stroke: #476372; stroke-width: 1.35; stroke-linecap: round"/>
+    <path d="M 1237.05 778.581346 
+L 1239.45 773.781346 
+L 1241.85 778.581346 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #476372; stroke: #476372; stroke-width: 1.35; stroke-linecap: round"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 367.575 902.8332 
+Q 414.075 902.8332 459.065654 902.8332 
+" clip-path="url(#p0753bdd80d)" style="fill: none; stroke: #476372; stroke-width: 1.35; stroke-linecap: round"/>
+    <path d="M 454.265654 900.4332 
+L 459.065654 902.8332 
+L 454.265654 905.2332 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #476372; stroke: #476372; stroke-width: 1.35; stroke-linecap: round"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 879.075 902.8332 
+Q 925.575 902.8332 970.565654 902.8332 
+" clip-path="url(#p0753bdd80d)" style="fill: none; stroke: #476372; stroke-width: 1.35; stroke-linecap: round"/>
+    <path d="M 965.765654 900.4332 
+L 970.565654 902.8332 
+L 965.765654 905.2332 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #476372; stroke: #476372; stroke-width: 1.35; stroke-linecap: round"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 32.5425 98.01072 
+L 52.77 98.01072 
+Q 56.2575 98.01072 56.2575 95.51592 
+L 56.2575 82.70928 
+Q 56.2575 80.21448 52.77 80.21448 
+L 32.5425 80.21448 
+Q 29.055 80.21448 29.055 82.70928 
+L 29.055 95.51592 
+Q 29.055 98.01072 32.5425 98.01072 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #edf3ff; stroke: #4269a5; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 220.8675 98.01072 
+L 241.095 98.01072 
+Q 244.5825 98.01072 244.5825 95.51592 
+L 244.5825 82.70928 
+Q 244.5825 80.21448 241.095 80.21448 
+L 220.8675 80.21448 
+Q 217.38 80.21448 217.38 82.70928 
+L 217.38 95.51592 
+Q 217.38 98.01072 220.8675 98.01072 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #f0f3f5; stroke: #607582; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 409.1925 98.01072 
+L 429.42 98.01072 
+Q 432.9075 98.01072 432.9075 95.51592 
+L 432.9075 82.70928 
+Q 432.9075 80.21448 429.42 80.21448 
+L 409.1925 80.21448 
+Q 405.705 80.21448 405.705 82.70928 
+L 405.705 95.51592 
+Q 405.705 98.01072 409.1925 98.01072 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #eaf6ee; stroke: #39805b; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 597.5175 98.01072 
+L 617.745 98.01072 
+Q 621.2325 98.01072 621.2325 95.51592 
+L 621.2325 82.70928 
+Q 621.2325 80.21448 617.745 80.21448 
+L 597.5175 80.21448 
+Q 594.03 80.21448 594.03 82.70928 
+L 594.03 95.51592 
+Q 594.03 98.01072 597.5175 98.01072 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #fff4dd; stroke: #b87816; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 785.8425 98.01072 
+L 806.07 98.01072 
+Q 809.5575 98.01072 809.5575 95.51592 
+L 809.5575 82.70928 
+Q 809.5575 80.21448 806.07 80.21448 
+L 785.8425 80.21448 
+Q 782.355 80.21448 782.355 82.70928 
+L 782.355 95.51592 
+Q 782.355 98.01072 785.8425 98.01072 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #f1eafe; stroke: #7555a3; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 974.1675 98.01072 
+L 994.395 98.01072 
+Q 997.8825 98.01072 997.8825 95.51592 
+L 997.8825 82.70928 
+Q 997.8825 80.21448 994.395 80.21448 
+L 974.1675 80.21448 
+Q 970.68 80.21448 970.68 82.70928 
+L 970.68 95.51592 
+Q 970.68 98.01072 974.1675 98.01072 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #f3f3f4; stroke: #8a8a8a; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 30.45 116.1396 
+L 65.325 116.1396 
+" clip-path="url(#p0753bdd80d)" style="fill: none; stroke: #476372; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 36.84375 292.8546 
+L 279.80625 292.8546 
+Q 290.26875 292.8546 290.26875 285.3702 
+L 290.26875 128.1978 
+Q 290.26875 120.7134 279.80625 120.7134 
+L 36.84375 120.7134 
+Q 26.38125 120.7134 26.38125 128.1978 
+L 26.38125 285.3702 
+Q 26.38125 292.8546 36.84375 292.8546 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #edf3ff; stroke: #4269a5; stroke-width: 1.45; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 385.59375 292.8546 
+L 628.55625 292.8546 
+Q 639.01875 292.8546 639.01875 285.3702 
+L 639.01875 128.1978 
+Q 639.01875 120.7134 628.55625 120.7134 
+L 385.59375 120.7134 
+Q 375.13125 120.7134 375.13125 128.1978 
+L 375.13125 285.3702 
+Q 375.13125 292.8546 385.59375 292.8546 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #eaf6ee; stroke: #39805b; stroke-width: 1.45; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 734.34375 292.8546 
+L 1023.80625 292.8546 
+Q 1034.26875 292.8546 1034.26875 285.3702 
+L 1034.26875 128.1978 
+Q 1034.26875 120.7134 1023.80625 120.7134 
+L 734.34375 120.7134 
+Q 723.88125 120.7134 723.88125 128.1978 
+L 723.88125 285.3702 
+Q 723.88125 292.8546 734.34375 292.8546 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #fff4dd; stroke: #b87816; stroke-width: 1.45; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 1129.59375 292.8546 
+L 1372.55625 292.8546 
+Q 1383.01875 292.8546 1383.01875 285.3702 
+L 1383.01875 128.1978 
+Q 1383.01875 120.7134 1372.55625 120.7134 
+L 1129.59375 120.7134 
+Q 1119.13125 120.7134 1119.13125 128.1978 
+L 1119.13125 285.3702 
+Q 1119.13125 292.8546 1129.59375 292.8546 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #eaf6ee; stroke: #39805b; stroke-width: 1.45; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 36.84375 534.0186 
+L 1372.55625 534.0186 
+Q 1383.01875 534.0186 1383.01875 526.5342 
+L 1383.01875 369.3618 
+Q 1383.01875 361.8774 1372.55625 361.8774 
+L 36.84375 361.8774 
+Q 26.38125 361.8774 26.38125 369.3618 
+L 26.38125 526.5342 
+Q 26.38125 534.0186 36.84375 534.0186 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #eaf6ee; stroke: #39805b; stroke-width: 1.45; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 36.84375 775.1826 
+L 349.55625 775.1826 
+Q 360.01875 775.1826 360.01875 767.6982 
+L 360.01875 593.8938 
+Q 360.01875 586.4094 349.55625 586.4094 
+L 36.84375 586.4094 
+Q 26.38125 586.4094 26.38125 593.8938 
+L 26.38125 767.6982 
+Q 26.38125 775.1826 36.84375 775.1826 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #f1eafe; stroke: #7555a3; stroke-width: 1.45; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 420.46875 775.1826 
+L 733.18125 775.1826 
+Q 743.64375 775.1826 743.64375 767.6982 
+L 743.64375 593.8938 
+Q 743.64375 586.4094 733.18125 586.4094 
+L 420.46875 586.4094 
+Q 410.00625 586.4094 410.00625 593.8938 
+L 410.00625 767.6982 
+Q 410.00625 775.1826 420.46875 775.1826 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #e7f6f6; stroke: #27838a; stroke-width: 1.45; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 804.09375 775.1826 
+L 1047.05625 775.1826 
+Q 1057.51875 775.1826 1057.51875 767.6982 
+L 1057.51875 593.8938 
+Q 1057.51875 586.4094 1047.05625 586.4094 
+L 804.09375 586.4094 
+Q 793.63125 586.4094 793.63125 593.8938 
+L 793.63125 767.6982 
+Q 793.63125 775.1826 804.09375 775.1826 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #eaf6ee; stroke: #39805b; stroke-width: 1.45; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 1129.59375 775.1826 
+L 1372.55625 775.1826 
+Q 1383.01875 775.1826 1383.01875 767.6982 
+L 1383.01875 593.8938 
+Q 1383.01875 586.4094 1372.55625 586.4094 
+L 1129.59375 586.4094 
+Q 1119.13125 586.4094 1119.13125 593.8938 
+L 1119.13125 767.6982 
+Q 1119.13125 775.1826 1129.59375 775.1826 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #e7f6f6; stroke: #27838a; stroke-width: 1.45; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 60.09375 960.6294 
+L 361.18125 960.6294 
+Q 371.64375 960.6294 371.64375 953.145 
+L 371.64375 852.5214 
+Q 371.64375 845.037 361.18125 845.037 
+L 60.09375 845.037 
+Q 49.63125 845.037 49.63125 852.5214 
+L 49.63125 953.145 
+Q 49.63125 960.6294 60.09375 960.6294 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #f0f3f5; stroke: #607582; stroke-width: 1.45; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 466.96875 960.6294 
+L 872.68125 960.6294 
+Q 883.14375 960.6294 883.14375 953.145 
+L 883.14375 852.5214 
+Q 883.14375 845.037 872.68125 845.037 
+L 466.96875 845.037 
+Q 456.50625 845.037 456.50625 852.5214 
+L 456.50625 953.145 
+Q 456.50625 960.6294 466.96875 960.6294 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #eaf6ee; stroke: #39805b; stroke-width: 1.45; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 978.46875 960.6294 
+L 1326.05625 960.6294 
+Q 1336.51875 960.6294 1336.51875 953.145 
+L 1336.51875 852.5214 
+Q 1336.51875 845.037 1326.05625 845.037 
+L 978.46875 845.037 
+Q 968.00625 845.037 968.00625 852.5214 
+L 968.00625 953.145 
+Q 968.00625 960.6294 978.46875 960.6294 
+z
+" clip-path="url(#p0753bdd80d)" style="fill: #eaf6ee; stroke: #39805b; stroke-width: 1.45; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'NanumGothic'; text-anchor: start; fill: #203544" x="30.45" y="44.79" transform="rotate(-0 30.45 44.79)">교과 10 | Action 학습 파이프라인</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 9.2px; font-family: 'NanumGothic'; text-anchor: start; fill: #5e6c78" x="30.45" y="67.7824" transform="rotate(-0 30.45 67.7824)">4~6일차 코드·파일 흐름 근거  ·  코드는 실행하지 않았으며, 기존 프로젝트 코드와 산출물만 확인</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 7.2px; font-family: 'NanumGothic'; text-anchor: start; fill: #263746" x="59.5125" y="91.2726" transform="rotate(-0 59.5125 91.2726)">설정</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.2px; font-family: 'NanumGothic'; text-anchor: start; fill: #263746" x="247.8375" y="91.2726" transform="rotate(-0 247.8375 91.2726)">원본·가중치</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.2px; font-family: 'NanumGothic'; text-anchor: start; fill: #263746" x="436.1625" y="91.2726" transform="rotate(-0 436.1625 91.2726)">자동 산출</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.2px; font-family: 'NanumGothic'; text-anchor: start; fill: #263746" x="624.4875" y="91.2726" transform="rotate(-0 624.4875 91.2726)">사람 검토</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7.2px; font-family: 'NanumGothic'; text-anchor: start; fill: #263746" x="812.8125" y="91.2726" transform="rotate(-0 812.8125 91.2726)">모델·평가</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.2px; font-family: 'NanumGothic'; text-anchor: start; fill: #263746" x="1001.1375" y="91.2726" transform="rotate(-0 1001.1375 91.2726)">별도 가지</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7px; font-family: 'NanumGothic'; text-anchor: start; fill: #5e6c78" x="74.625" y="118.2396" transform="rotate(-0 74.625 118.2396)">실선 = 코드에서 확인한 입·출력</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7px; font-family: 'NanumGothic'; text-anchor: start; fill: #5e6c78" x="504.75" y="118.2396" transform="rotate(-0 504.75 118.2396)">회색 테두리 = 검색으로 분리 확인된 별도 가지</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 9.65px; font-family: 'NanumGothic'; text-anchor: start; fill: #263746" x="40.9125" y="140.9074" transform="rotate(-0 40.9125 140.9074)">입력 · 설정 · 원본</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 8.15px; font-family: 'NanumGothic'; fill: #263746" transform="translate(40.9125 167.137375)">원본: data/day05/videos/ (18 MP4)</text>
+    <text style="font-size: 8.15px; font-family: 'NanumGothic'; fill: #263746" transform="translate(40.9125 178.987348)">S01–S03 × A001–A006</text>
+    <text style="font-size: 8.15px; font-family: 'NanumGothic'; fill: #263746" transform="translate(40.9125 190.157305)">#26: project.json + action_classes.csv</text>
+    <text style="font-size: 8.15px; font-family: 'NanumGothic'; fill: #263746" transform="translate(40.9125 201.852555)">Pose weights: yolo11n-pose.pt (존재)</text>
+    <text style="font-size: 8.15px; font-family: 'NanumGothic'; fill: #263746" transform="translate(40.9125 213.319223)">#30: day05_subject_split.json</text>
+    <text style="font-size: 8.15px; font-family: 'NanumGothic'; fill: #263746" transform="translate(40.9125 224.892223)">#34/#35: day06_baseline.json</text>
+    <text style="font-size: 8.15px; font-family: 'NanumGothic'; fill: #263746" transform="translate(40.9125 236.807777)">근거: #26:56–74; #30:36–55; #34:75–93</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 9.45px; font-family: 'NanumGothic'; text-anchor: start; fill: #263746" x="389.6625" y="140.7474" transform="rotate(-0 389.6625 140.7474)">26 · Keypoint 추출</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.7px; font-family: 'NanumGothic'; fill: #263746" transform="translate(389.6625 166.574359)">scripts/26_extract_keypoint_dataset.py</text>
+    <text style="font-size: 7.7px; font-family: 'NanumGothic'; fill: #263746" transform="translate(389.6625 177.45482)">S03_A006_T01 → S03/A006/T01</text>
+    <text style="font-size: 7.7px; font-family: 'NanumGothic'; fill: #263746" transform="translate(389.6625 188.78525)">기준표: A006 = wave; YOLO Pose 추출</text>
+    <text style="font-size: 7.7px; font-family: 'NanumGothic'; fill: #263746" transform="translate(389.6625 199.48825)">예시: data/day05/keypoints/S03/wave/</text>
+    <text style="font-size: 7.7px; font-family: 'NanumGothic'; fill: #263746" transform="translate(389.6625 210.49925)">S03_A006_T01.csv (95열)</text>
+    <text style="font-size: 7.7px; font-family: 'NanumGothic'; fill: #263746" transform="translate(389.6625 221.5295)">10 메타 + 17 관절×5값</text>
+    <text style="font-size: 7.7px; font-family: 'NanumGothic'; fill: #263746" transform="translate(389.6625 232.498391)">Manifest 18행·CSV 18개 존재</text>
+    <text style="font-size: 7.7px; font-family: 'NanumGothic'; fill: #263746" transform="translate(389.6625 243.25493)">근거: #26:140–155, 214–253, 394–410, 770–901</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 9.45px; font-family: 'NanumGothic'; text-anchor: start; fill: #263746" x="738.4125" y="140.7474" transform="rotate(-0 738.4125 140.7474)">27 · 자동 QA → 사람 검토</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.8px; font-family: 'NanumGothic'; fill: #263746" transform="translate(738.4125 166.7865)">27_keypoint_qa.py: Manifest + Keypoint CSV 입력</text>
+    <text style="font-size: 7.8px; font-family: 'NanumGothic'; fill: #263746" transform="translate(738.4125 177.874078)">출력: keypoint_clip_qa.csv (AUTO_PASS/CHECK)</text>
+    <text style="font-size: 7.8px; font-family: 'NanumGothic'; fill: #263746" transform="translate(738.4125 188.9385)">keypoint_clip_review.csv (사람 검토표)</text>
+    <text style="font-size: 7.8px; font-family: 'NanumGothic'; fill: #263746" transform="translate(738.4125 200.096766)">사람이 원본 확인 후 human_decision 기록:</text>
+    <text style="font-size: 7.8px; font-family: 'NanumGothic'; fill: #263746" transform="translate(738.4125 211.152656)">PASS / RESHOOT / EXCLUDE</text>
+    <text style="font-size: 7.8px; font-family: 'NanumGothic'; fill: #263746" transform="translate(738.4125 222.248766)">AUTO_PASS ≠ 최종 PASS</text>
+    <text style="font-size: 7.8px; font-family: 'NanumGothic'; fill: #263746" transform="translate(738.4125 233.2425)">28_validate_human_review.py는 입력값 검사</text>
+    <text style="font-size: 7.8px; font-family: 'NanumGothic'; fill: #263746" transform="translate(738.4125 244.349578)">근거: #27:55–76, 494–555, 817–840; #28:159–296</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 9.05px; font-family: 'NanumGothic'; text-anchor: start; fill: #263746" x="1133.6625" y="140.4274" transform="rotate(-0 1133.6625 140.4274)">29–31 · 승인 · 분할 · 검사</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.4px; font-family: 'NanumGothic'; fill: #263746" transform="translate(1133.6625 166.3855)">29: data/day05/qa/keypoint_clip_review.csv에서 PASS만 선택</text>
+    <text style="font-size: 7.4px; font-family: 'NanumGothic'; fill: #263746" transform="translate(1133.6625 176.841469)">→ data/day05/manifests/approved_clip_manifest.csv</text>
+    <text style="font-size: 7.4px; font-family: 'NanumGothic'; fill: #263746" transform="translate(1133.6625 187.301484)">30 + day05_subject_split.json:</text>
+    <text style="font-size: 7.4px; font-family: 'NanumGothic'; fill: #263746" transform="translate(1133.6625 198.0945)">S01 Train / S02 Validation / S03 Test</text>
+    <text style="font-size: 7.4px; font-family: 'NanumGothic'; fill: #263746" transform="translate(1133.6625 208.406516)">→ data/day05/splits/{train,val,test}.csv</text>
+    <text style="font-size: 7.4px; font-family: 'NanumGothic'; fill: #263746" transform="translate(1133.6625 218.929547)">현재 각 split에 6 Clip 행 존재</text>
+    <text style="font-size: 7.4px; font-family: 'NanumGothic'; fill: #263746" transform="translate(1133.6625 229.4705)">31: 겹침·Action coverage 검사, 콘솔 출력</text>
+    <text style="font-size: 7.4px; font-family: 'NanumGothic'; fill: #263746" transform="translate(1133.6625 240.0155)">(이번 작업에서 실행하지 않음)</text>
+    <text style="font-size: 7.4px; font-family: 'NanumGothic'; fill: #263746" transform="translate(1133.6625 250.478984)">근거: #29:136–196,253; #30:36–55,445–487,674–686; #31:153–208,481–519</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 10.45px; font-family: 'NanumGothic'; text-anchor: start; fill: #263746" x="40.9125" y="382.7114" transform="rotate(-0 40.9125 382.7114)">34 · Clip 단위 Sequence Feature 생성  |  scripts/34_build_sequence_dataset.py + src/sequence_utils.py</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 8.15px; font-family: 'NanumGothic'; fill: #263746" transform="translate(40.9125 408.297555)">입력: data/day05/splits/{train,val,test}.csv의 keypoint_csv 경로 + configs/day06_baseline.json</text>
+    <text style="font-size: 8.15px; font-family: 'NanumGothic'; fill: #263746" transform="translate(40.9125 419.874375)">유효 Frame: 17 관절의 정규화 x·y (34) + 관절각도 4 = 38-D; 사용할 수 없는 Frame은 제외</text>
+    <text style="font-size: 8.15px; font-family: 'NanumGothic'; fill: #263746" transform="translate(40.9125 431.46393)">Frame 시간 위치를 고려해 30 Step으로 맞춤 → Clip당 30×38 = 1,140 숫자</text>
+    <text style="font-size: 8.15px; font-family: 'NanumGothic'; fill: #263746" transform="translate(40.9125 443.024832)">CSV 한 행은 Clip 하나이며 메타데이터 8열(action_label 포함)이 함께 남음</text>
+    <text style="font-size: 8.15px; font-family: 'NanumGothic'; fill: #263746" transform="translate(40.9125 454.605473)">출력: data/day06/sequences/{train,val,test}.csv — 세 파일 모두 존재, 각 6개 데이터 행</text>
+    <text style="font-size: 8.15px; font-family: 'NanumGothic'; fill: #263746" transform="translate(40.9125 466.166375)">근거: #34:75–93,194–206,317–328,387–425,456–508,653–667; sequence_utils.py:76–160,176–225,228–317</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 9.65px; font-family: 'NanumGothic'; text-anchor: start; fill: #263746" x="40.9125" y="606.6034" transform="rotate(-0 40.9125 606.6034)">35 · Train 전용 학습</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7.85px; font-family: 'NanumGothic'; fill: #263746" transform="translate(40.9125 632.47743)">scripts/35_train_rf_baseline.py</text>
+    <text style="font-size: 7.85px; font-family: 'NanumGothic'; fill: #263746" transform="translate(40.9125 643.683918)">입력: sequences/train.csv (S01, 6 Clip)</text>
+    <text style="font-size: 7.85px; font-family: 'NanumGothic'; fill: #263746" transform="translate(40.9125 654.826625)">X_train = 1,140 Feature만; y_train = action_label</text>
+    <text style="font-size: 7.85px; font-family: 'NanumGothic'; fill: #263746" transform="translate(40.9125 666.1895)">Validation·Test는 학습 입력에서 제외</text>
+    <text style="font-size: 7.85px; font-family: 'NanumGothic'; fill: #263746" transform="translate(40.9125 677.328527)">생성물 모두 존재:</text>
+    <text style="font-size: 7.85px; font-family: 'NanumGothic'; fill: #263746" transform="translate(40.9125 688.20875)">artifacts/day06/rf_action_baseline.joblib</text>
+    <text style="font-size: 7.85px; font-family: 'NanumGothic'; fill: #263746" transform="translate(40.9125 699.35575)">rf_feature_columns.json · rf_training_info.json</text>
+    <text style="font-size: 7.85px; font-family: 'NanumGothic'; fill: #263746" transform="translate(40.9125 710.592902)">근거: #35:49–87,97–106,257–279,324–365</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 9.65px; font-family: 'NanumGothic'; text-anchor: start; fill: #263746" x="424.5375" y="606.6034" transform="rotate(-0 424.5375 606.6034)">36 · Validation 평가</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 7.8px; font-family: 'NanumGothic'; fill: #263746" transform="translate(424.5375 632.3655)">scripts/36_evaluate_validation.py</text>
+    <text style="font-size: 7.8px; font-family: 'NanumGothic'; fill: #263746" transform="translate(424.5375 643.554844)">입력: sequences/val.csv (S02) + .joblib</text>
+    <text style="font-size: 7.8px; font-family: 'NanumGothic'; fill: #263746" transform="translate(424.5375 654.576)">+ rf_feature_columns.json</text>
+    <text style="font-size: 7.8px; font-family: 'NanumGothic'; fill: #263746" transform="translate(424.5375 665.7105)">X_val에는 Feature만; y_true는 action_label</text>
+    <text style="font-size: 7.8px; font-family: 'NanumGothic'; fill: #263746" transform="translate(424.5375 676.997344)">결과 파일 모두 존재:</text>
+    <text style="font-size: 7.8px; font-family: 'NanumGothic'; fill: #263746" transform="translate(424.5375 687.7455)">reports/day06/metrics/validation_metrics.txt</text>
+    <text style="font-size: 7.8px; font-family: 'NanumGothic'; fill: #263746" transform="translate(424.5375 698.8215)">reports/day06/metrics/validation_predictions.csv</text>
+    <text style="font-size: 7.8px; font-family: 'NanumGothic'; fill: #263746" transform="translate(424.5375 709.956)">reports/day06/confusion/validation_confusion_matrix.png</text>
+    <text style="font-size: 7.8px; font-family: 'NanumGothic'; fill: #263746" transform="translate(424.5375 721.121578)">근거: #36:39–100,127–194,372–430</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 9.15px; font-family: 'NanumGothic'; text-anchor: start; fill: #263746" x="808.1625" y="606.2034" transform="rotate(-0 808.1625 606.2034)">Test Sequence (실제 존재)</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 8.05px; font-family: 'NanumGothic'; fill: #263746" transform="translate(808.1625 632.612375)">data/day06/sequences/test.csv</text>
+    <text style="font-size: 8.05px; font-family: 'NanumGothic'; fill: #263746" transform="translate(808.1625 644.168527)">S03, 6개 Clip (클래스별 1개)</text>
+    <text style="font-size: 8.05px; font-family: 'NanumGothic'; fill: #263746" transform="translate(808.1625 655.691977)">#34 출력; action_label 유지</text>
+    <text style="font-size: 8.05px; font-family: 'NanumGothic'; fill: #263746" transform="translate(808.1625 667.239324)">파일 존재; #40 평가 입력으로</text>
+    <text style="font-size: 8.05px; font-family: 'NanumGothic'; fill: #263746" transform="translate(808.1625 678.646426)">읽는 코드도 현재 확인됨</text>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 9.15px; font-family: 'NanumGothic'; text-anchor: start; fill: #263746" x="1133.6625" y="606.2034" transform="rotate(-0 1133.6625 606.2034)">40 · 최종 Test 평가</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 7.3px; font-family: 'NanumGothic'; fill: #263746" transform="translate(1133.6625 631.988664)">scripts/40_evaluate_test.py: test.csv + 학습된</text>
+    <text style="font-size: 7.3px; font-family: 'NanumGothic'; fill: #263746" transform="translate(1133.6625 642.380328)">.joblib + rf_feature_columns.json을 읽음</text>
+    <text style="font-size: 7.3px; font-family: 'NanumGothic'; fill: #263746" transform="translate(1133.6625 652.618008)">X_test=1,140 Feature; y_true=action_label</text>
+    <text style="font-size: 7.3px; font-family: 'NanumGothic'; fill: #263746" transform="translate(1133.6625 663.28)">재학습 없이 예측과 정답을 비교</text>
+    <text style="font-size: 7.3px; font-family: 'NanumGothic'; fill: #263746" transform="translate(1133.6625 673.44525)">실제 경로: reports/day06/metrics/test_metrics.txt</text>
+    <text style="font-size: 7.3px; font-family: 'NanumGothic'; fill: #263746" transform="translate(1133.6625 683.70175)">reports/day06/metrics/test_predictions.csv</text>
+    <text style="font-size: 7.3px; font-family: 'NanumGothic'; fill: #263746" transform="translate(1133.6625 694.1225)">reports/day06/confusion/test_confusion_matrix.png</text>
+    <text style="font-size: 7.3px; font-family: 'NanumGothic'; fill: #263746" transform="translate(1133.6625 704.54325)">실제 결과: Accuracy 1.00 / Macro F1 1.00</text>
+    <text style="font-size: 7.3px; font-family: 'NanumGothic'; fill: #263746" transform="translate(1133.6625 714.913242)">6 Clip·클래스별 1개; 표본 수가 작음</text>
+    <text style="font-size: 7.3px; font-family: 'NanumGothic'; fill: #263746" transform="translate(1133.6625 725.304336)">근거: #40:43–120,157–180,227–267,325–377,491,579</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 700; font-size: 7.4px; font-family: 'NanumGothic'; text-anchor: start; fill: #5e6c78" x="42.075" y="832.688969" transform="rotate(-0 42.075 832.688969)">별도 가지 · Day04 코드 22번 — scripts/ 및 src/ 전체 검색에서 reports/day04/sequences 소비 코드는 확인되지 않음 (검색 범위 내)</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 8.55px; font-family: 'NanumGothic'; text-anchor: start; fill: #263746" x="64.1625" y="864.351" transform="rotate(-0 64.1625 864.351)">Day04 입력 (코드 기본값)</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 7.6px; font-family: 'NanumGothic'; fill: #263746" transform="translate(64.1625 890.7956)">data/day04/videos/</text>
+    <text style="font-size: 7.6px; font-family: 'NanumGothic'; fill: #263746" transform="translate(64.1625 901.584038)">project.json + action_classes.csv</text>
+    <text style="font-size: 7.6px; font-family: 'NanumGothic'; fill: #263746" transform="translate(64.1625 912.653319)">입력 영상은 이번에 열지 않음</text>
+    <text style="font-size: 7.6px; font-family: 'NanumGothic'; fill: #263746" transform="translate(64.1625 923.315881)">근거: #22:55–73,181–192,807–814</text>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 700; font-size: 8.85px; font-family: 'NanumGothic'; text-anchor: start; fill: #263746" x="471.0375" y="864.591" transform="rotate(-0 471.0375 864.591)">22_build_action_sequences.py</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 7.75px; font-family: 'NanumGothic'; fill: #263746" transform="translate(471.0375 891.269467)">Frame별 Pose → 38-D Feature</text>
+    <text style="font-size: 7.75px; font-family: 'NanumGothic'; fill: #263746" transform="translate(471.0375 902.146713)">action_label 포함; CSV 한 행=Frame</text>
+    <text style="font-size: 7.75px; font-family: 'NanumGothic'; fill: #263746" transform="translate(471.0375 913.279467)">12 메타 + 38 Feature = 50열</text>
+    <text style="font-size: 7.75px; font-family: 'NanumGothic'; fill: #263746" transform="translate(471.0375 924.105854)">근거: #22:302–325,646–680</text>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 8.85px; font-family: 'NanumGothic'; text-anchor: start; fill: #263746" x="982.5375" y="864.591" transform="rotate(-0 982.5375 864.591)">reports/day04/sequences/</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 8.05px; font-family: 'NanumGothic'; fill: #263746" transform="translate(982.5375 891.445627)">bend_return ~ wave CSV 6개 존재</text>
+    <text style="font-size: 8.05px; font-family: 'NanumGothic'; fill: #263746" transform="translate(982.5375 902.791725)">Day05/06 소비 코드는 검색 범위 내 미발견</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7px; font-family: 'NanumGothic'; text-anchor: start; fill: #5e6c78" x="30.45" y="995.404" transform="rotate(-0 30.45 995.404)">조사 기준: 2026-11-19  |  이 작업에서는 파이프라인 스크립트를 실행하지 않았습니다. Test 산출물은 기존 파일을 읽어 확인했습니다.</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7px; font-family: 'NanumGothic'; text-anchor: end; fill: #5e6c78" x="1378.95" y="995.404" transform="rotate(-0 1378.95 995.404)">SVG 글자는 편집 가능한 텍스트</text>
+   </g>
+   <g id="text_38">
+    <g id="patch_34">
+     <path d="M 310.176289 203.233 
+L 355.223711 203.233 
+Q 356.167711 203.233 356.167711 202.289 
+L 356.167711 190.489 
+Q 356.167711 189.545 355.223711 189.545 
+L 310.176289 189.545 
+Q 309.232289 189.545 309.232289 190.489 
+L 309.232289 202.289 
+Q 309.232289 203.233 310.176289 203.233 
+z
+" style="fill: #f7f9fc"/>
+    </g>
+    <text style="font-size: 5.9px; font-family: 'NanumGothic'; fill: #476372" transform="translate(310.176289 195.321008)">MP4 + Pose 설정</text>
+    <text style="font-size: 5.9px; font-family: 'NanumGothic'; fill: #476372" transform="translate(314.640008 201.232992)">+ Action 기준</text>
+   </g>
+   <g id="text_39">
+    <g id="patch_35">
+     <path d="M 663.054445 203.233 
+L 699.845555 203.233 
+Q 700.789555 203.233 700.789555 202.289 
+L 700.789555 190.489 
+Q 700.789555 189.545 699.845555 189.545 
+L 663.054445 189.545 
+Q 662.110445 189.545 662.110445 190.489 
+L 662.110445 202.289 
+Q 662.110445 203.233 663.054445 203.233 
+z
+" style="fill: #f7f9fc"/>
+    </g>
+    <text style="font-size: 5.9px; font-family: 'NanumGothic'; fill: #476372" transform="translate(666.726273 195.530273)">Manifest +</text>
+    <text style="font-size: 5.9px; font-family: 'NanumGothic'; fill: #476372" transform="translate(663.054445 200.928773)">Keypoint CSV</text>
+   </g>
+   <g id="text_40">
+    <g id="patch_36">
+     <path d="M 1054.366195 203.233 
+L 1099.033805 203.233 
+Q 1099.977805 203.233 1099.977805 202.289 
+L 1099.977805 190.489 
+Q 1099.977805 189.545 1099.033805 189.545 
+L 1054.366195 189.545 
+Q 1053.422195 189.545 1053.422195 190.489 
+L 1053.422195 202.289 
+Q 1053.422195 203.233 1054.366195 203.233 
+z
+" style="fill: #f7f9fc"/>
+    </g>
+    <text style="font-size: 5.9px; font-family: 'NanumGothic'; fill: #476372" transform="translate(1054.366195 195.141242)">human_decision</text>
+    <text style="font-size: 5.9px; font-family: 'NanumGothic'; fill: #476372" transform="translate(1067.138773 201.286)">PASS만</text>
+   </g>
+   <g id="text_41">
+    <g id="patch_37">
+     <path d="M 645.300609 333.1212 
+L 764.099391 333.1212 
+Q 765.091391 333.1212 765.091391 332.1292 
+L 765.091391 325.9292 
+Q 765.091391 324.9372 764.099391 324.9372 
+L 645.300609 324.9372 
+Q 644.308609 324.9372 644.308609 325.9292 
+L 644.308609 332.1292 
+Q 644.308609 333.1212 645.300609 333.1212 
+z
+" style="fill: #f7f9fc"/>
+    </g>
+    <text style="font-size: 6.2px; font-family: 'NanumGothic'; text-anchor: middle; fill: #476372" x="704.7" y="330.8427" transform="rotate(-0 704.7 330.8427)">split 목록 + keypoint_csv 경로·action_label</text>
+   </g>
+   <g id="text_42">
+    <g id="patch_38">
+     <path d="M 182.139219 558.6366 
+L 204.260781 558.6366 
+Q 205.188781 558.6366 205.188781 557.7086 
+L 205.188781 551.9086 
+Q 205.188781 550.9806 204.260781 550.9806 
+L 182.139219 550.9806 
+Q 181.211219 550.9806 181.211219 551.9086 
+L 181.211219 557.7086 
+Q 181.211219 558.6366 182.139219 558.6366 
+z
+" style="fill: #f7f9fc"/>
+    </g>
+    <text style="font-size: 5.8px; font-family: 'NanumGothic'; text-anchor: middle; fill: #476372" x="193.2" y="556.681819" transform="rotate(-0 193.2 556.681819)">train.csv</text>
+   </g>
+   <g id="text_43">
+    <g id="patch_39">
+     <path d="M 568.222875 558.6366 
+L 585.427125 558.6366 
+Q 586.355125 558.6366 586.355125 557.7086 
+L 586.355125 551.9086 
+Q 586.355125 550.9806 585.427125 550.9806 
+L 568.222875 550.9806 
+Q 567.294875 550.9806 567.294875 551.9086 
+L 567.294875 557.7086 
+Q 567.294875 558.6366 568.222875 558.6366 
+z
+" style="fill: #f7f9fc"/>
+    </g>
+    <text style="font-size: 5.8px; font-family: 'NanumGothic'; text-anchor: middle; fill: #476372" x="576.825" y="556.728491" transform="rotate(-0 576.825 556.728491)">val.csv</text>
+   </g>
+   <g id="text_44">
+    <g id="patch_40">
+     <path d="M 915.743547 558.6366 
+L 935.406453 558.6366 
+Q 936.334453 558.6366 936.334453 557.7086 
+L 936.334453 551.9086 
+Q 936.334453 550.9806 935.406453 550.9806 
+L 915.743547 550.9806 
+Q 914.815547 550.9806 914.815547 551.9086 
+L 914.815547 557.7086 
+Q 914.815547 558.6366 915.743547 558.6366 
+z
+" style="fill: #f7f9fc"/>
+    </g>
+    <text style="font-size: 5.8px; font-family: 'NanumGothic'; text-anchor: middle; fill: #476372" x="925.575" y="556.426709" transform="rotate(-0 925.575 556.426709)">test.csv</text>
+   </g>
+   <g id="text_45">
+    <g id="patch_41">
+     <path d="M 369.248938 676.897 
+L 400.776063 676.897 
+Q 401.672063 676.897 401.672063 676.001 
+L 401.672063 664.801 
+Q 401.672063 663.905 400.776063 663.905 
+L 369.248938 663.905 
+Q 368.352938 663.905 368.352938 664.801 
+L 368.352938 676.001 
+Q 368.352938 676.897 369.248938 676.897 
+z
+" style="fill: #f7f9fc"/>
+    </g>
+    <text style="font-size: 5.6px; font-family: 'NanumGothic'; fill: #476372" transform="translate(374.350188 669.163312)">.joblib +</text>
+    <text style="font-size: 5.6px; font-family: 'NanumGothic'; fill: #476372" transform="translate(369.248938 674.998687)">Feature 순서</text>
+   </g>
+   <g id="text_46">
+    <g id="patch_42">
+     <path d="M 1078.493547 674.229 
+L 1098.156453 674.229 
+Q 1099.084453 674.229 1099.084453 673.301 
+L 1099.084453 667.501 
+Q 1099.084453 666.573 1098.156453 666.573 
+L 1078.493547 666.573 
+Q 1077.565547 666.573 1077.565547 667.501 
+L 1077.565547 673.301 
+Q 1077.565547 674.229 1078.493547 674.229 
+z
+" style="fill: #f7f9fc"/>
+    </g>
+    <text style="font-size: 5.8px; font-family: 'NanumGothic'; text-anchor: middle; fill: #476372" x="1088.325" y="672.019109" transform="rotate(-0 1088.325 672.019109)">test.csv</text>
+   </g>
+   <g id="text_47">
+    <g id="patch_43">
+     <path d="M 626.492969 809.562 
+L 806.157031 809.562 
+Q 807.133031 809.562 807.133031 808.586 
+L 807.133031 802.486 
+Q 807.133031 801.51 806.157031 801.51 
+L 626.492969 801.51 
+Q 625.516969 801.51 625.516969 802.486 
+L 625.516969 808.586 
+Q 625.516969 809.562 626.492969 809.562 
+z
+" style="fill: #f7f9fc"/>
+    </g>
+    <text style="font-size: 6.1px; font-family: 'NanumGothic'; text-anchor: middle; fill: #476372" x="716.325" y="807.366" transform="rotate(-0 716.325 807.366)">#35 → #40: rf_action_baseline.joblib + rf_feature_columns.json</text>
+   </g>
+   <g id="text_48">
+    <g id="patch_44">
+     <path d="M 399.898922 898.2792 
+L 428.251078 898.2792 
+Q 429.163078 898.2792 429.163078 897.3672 
+L 429.163078 891.6672 
+Q 429.163078 890.7552 428.251078 890.7552 
+L 399.898922 890.7552 
+Q 398.986922 890.7552 398.986922 891.6672 
+L 398.986922 897.3672 
+Q 398.986922 898.2792 399.898922 898.2792 
+z
+" style="fill: #f7f9fc"/>
+    </g>
+    <text style="font-size: 5.7px; font-family: 'NanumGothic'; text-anchor: middle; fill: #476372" x="414.075" y="896.335411" transform="rotate(-0 414.075 896.335411)">영상 + 기준</text>
+   </g>
+   <g id="text_49">
+    <g id="patch_45">
+     <path d="M 911.248406 898.2792 
+L 939.901594 898.2792 
+Q 940.813594 898.2792 940.813594 897.3672 
+L 940.813594 891.6672 
+Q 940.813594 890.7552 939.901594 890.7552 
+L 911.248406 890.7552 
+Q 910.336406 890.7552 910.336406 891.6672 
+L 910.336406 897.3672 
+Q 910.336406 898.2792 911.248406 898.2792 
+z
+" style="fill: #f7f9fc"/>
+    </g>
+    <text style="font-size: 5.7px; font-family: 'NanumGothic'; text-anchor: middle; fill: #476372" x="925.575" y="896.378161" transform="rotate(-0 925.575 896.378161)">Frame CSV</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p0753bdd80d">
+   <rect x="7.2" y="7.2" width="1395" height="997.92"/>
+  </clipPath>
+ </defs>
+</svg>

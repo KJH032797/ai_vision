@@ -1,0 +1,4 @@
+﻿clip_id,video_path,keypoint_csv,subject,action_id,action_label,take,width,height,fps,metadata_frames,read_frames,pose_detected_frames,pose_ratio,single_person_ratio,mean_keypoint_conf
+S01_A006_T01,data/day05/challenge/videos/S01/S01_A006_T01.mp4,data/day05/challenge/keypoints/S01/wave/S01_A006_T01.csv,S01,A006,wave,T01,640,480,25.0,126,126,126,1.0,1.0,0.9724
+S02_A006_T01,data/day05/challenge/videos/S02/S02_A006_T01.mp4,data/day05/challenge/keypoints/S02/wave/S02_A006_T01.csv,S02,A006,wave,T01,640,480,25.0,94,94,94,1.0,1.0,0.9731
+S03_A006_T01,data/day05/challenge/videos/S03/S03_A006_T01.mp4,data/day05/challenge/keypoints/S03/wave/S03_A006_T01.csv,S03,A006,wave,T01,640,480,25.0,102,102,102,1.0,1.0,0.9689

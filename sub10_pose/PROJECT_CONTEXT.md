@@ -35,3 +35,15 @@
 2. frame24 부근을 영상에서 검토해 left_eye 저신뢰 원인을 확인한다.
 3. Day02 팀 Mini Challenge 수행 여부를 사용자에게 확인하고 수행 사실을 임의로 가정하지 않는다.
 4. Day03 코드에서 저신뢰 관절을 각도·Feature 계산에 어떻게 처리하는지 확인한다.
+
+## Latest handoff (2026-11-19)
+
+- **작업:** 교과 10 4~6일차 파이프라인 그림을 위한 프로젝트 진행 상태를 실제 파일과 대조하고, 누락된 Day06 비교·최종평가 코드를 보완했다.
+- **교과 요구사항:** Day05는 18개 Clip의 Keypoint 추출, 자동 QA와 Human Review, 승인 Manifest, Subject-wise Split 및 누수 확인을 수행한다. Day06은 Keypoint를 Sequence Feature로 변환하고 Baseline 학습·Validation·비교·최종 Test를 수행한다. 파이프라인 그림에는 실제 코드와 입력·출력 관계를 근거로 사용한다.
+- **Day05 확인:** scripts/25_check_day05_data.py를 실행해 18개 MP4 모두 읽기 성공을 확인하고 reports/day05/tables/video_inventory.csv를 갱신했다. 기존 QA 검토표는 18행이며 AUTO_PASS/PASS 13개, CHECK/PASS 5개다. approved_clip_manifest.csv와 Train/Validation/Test는 각각 18개 승인 Clip, 6개 Clip씩이며 S01/S02/S03로 분리되어 있다. scripts/31_check_split_leakage.py 실행에서 Subject overlap, Clip overlap 없음 및 Action Coverage 확인으로 통과했다.
+- **Day06 입력·Baseline 확인:** scripts/33_check_day06_inputs.py 통과; reports/day06/tables/day06_input_check.csv 갱신. 34번 Sequence CSV는 Train/Validation/Test 각 6행이고, rf_training_info.json의 설정(30 Step, 1,140 Feature, n_estimators=300, max_depth=null, random_state=42)이 현재 configs/day06_baseline.json과 일치한다. 35~37번 Baseline 학습·Validation·오분류 산출물이 존재한다. 현재 Validation은 Accuracy 0.5000, Macro F1 0.4444다.
+- **이번에 복원·실행한 코드:** Obsidian 6일차 수업 문서에서 해당 코드 블록을 가져와 scripts/38_compare_static_vs_sequence.py, scripts/39_compare_feature_sets.py, scripts/40_evaluate_test.py를 만들고 실행했다. 38번 S02 Validation 결과: Static 38-D Accuracy 0.6667 / Macro F1 0.5556, Sequence 1,140-D 0.5000 / 0.4444. 39번: Coordinates+Angles 1,140-D 0.5000 / 0.4444, Coordinates Only 1,020-D 1.0000 / 1.0000. Test는 튜닝에 쓰지 않았다.
+- **최종 Test:** 40번은 수업 문서대로 기존 Baseline 모델을 S03 Test에 적용했다. 6/6 정답, Accuracy 1.0000, Macro F1 1.0000. Test는 각 Action당 1 Clip뿐인 소규모 교육 데이터 결과이며 일반화 성능으로 해석하지 않는다.
+- **변경·생성 파일:** scripts/38_compare_static_vs_sequence.py, scripts/39_compare_feature_sets.py, scripts/40_evaluate_test.py; reports/day06/experiments/static_vs_sequence.csv, reports/day06/experiments/feature_set_comparison.csv, reports/day06/metrics/test_metrics.txt, reports/day06/metrics/test_predictions.csv, reports/day06/confusion/test_confusion_matrix.png; Day05 inventory 및 Day06 input-check CSV 갱신.
+- **미완료/범위:** 이 작업에서는 파이프라인 그림 자체, Day05의 별도 frame-split leakage 시연(32번), 학생이 직접 가설을 정하는 Mini Challenge 및 수업 마무리 문서를 작성하지 않았다. 이들은 이번 파이프라인 그림의 필수 실행 경로와 구분한다. 5일차 Challenge 영상이 원본 A006 영상과 동일하다는 기존 확인 사항도 유지한다.
+- **다음 단계:** 이 handoff와 4~6일차 수업 문서를 근거로 파이프라인 순서를 정리하고, 사용자가 요청한 그림을 만든다. 먼저 확인할 파일은 scripts/25_check_day05_data.py, scripts/26_extract_keypoint_dataset.py, scripts/27_keypoint_qa.py~scripts/31_check_split_leakage.py, scripts/33_check_day06_inputs.py~scripts/40_evaluate_test.py, src/sequence_utils.py다.
